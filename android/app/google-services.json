@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "708739655769",
+    "project_id": "timer-4624c",
+    "storage_bucket": "timer-4624c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708739655769:android:3b2c317df6ac0ddfede948",
+        "android_client_info": {
+          "package_name": "com.timer.task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNSUxyuPsOBSs_zjIVUDW1C9u_5M5oabY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
